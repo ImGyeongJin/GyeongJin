@@ -9,7 +9,7 @@ Yeungnam University student
 ## Major
 statics
 
-## Doubld major
+## Double major
 computer engineering
 
 ## Links
